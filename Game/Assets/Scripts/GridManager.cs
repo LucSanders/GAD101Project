@@ -20,7 +20,13 @@ public class GridManager : MonoBehaviour
         grid.Init(10, 8);
         Set(1, 1, 2);
         Set(1, 2, 2);
+        Set(1, 3, 2);
         Set(2, 1, 1);
+        Set(2, 2, 2);
+        Set(2, 3, 2);
+        Set(3, 1, 1);
+        Set(3, 2, 2);
+        Set(3, 3, 2);
         UpdateTileMap();
     }
     void UpdateTileMap()
