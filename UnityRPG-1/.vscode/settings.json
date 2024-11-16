@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "UnityRPG - Copy.sln"
+    "dotnet.defaultSolution": "UnityRPG-1.sln"
 }
